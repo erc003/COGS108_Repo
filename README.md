@@ -1,0 +1,1 @@
+idk why we can't just init the repo with the README and .gitignore
